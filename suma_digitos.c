@@ -1,11 +1,11 @@
 
 
-/* La funcion suma digitos toma un numero entero por parametro y convierte sus 
- * los digitos que la componen en unidades que luego se sumaran para dar asi el
+/* a) La funcion suma digitos toma un numero entero por parametro y convierte sus 
+ * digitos que la componen en unidades que luego se sumaran para dar asi el
  * el resultado
  * 
- * La funcion Suma_Digitos no funciona por lo siguentes motivos:
- * no tiene un caso base , por ende , se llamará a si misma hasta saturar el 
+ * b) La funcion Suma_Digitos no funciona por que no tiene
+ * un caso base , por ende , se llamará a si misma hasta saturar el 
  * stack no contempla los numeros negativos. 
  * 
  */
